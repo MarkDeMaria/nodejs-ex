@@ -1,0 +1,35 @@
+<div class="todo-body">
+  <div class="todo-input">
+
+  </div>
+  <div class="todo-do">
+    <div class="todo-check fa fa-circle-thin">
+    </div>
+    <div class="todo-message">
+      Laundry
+    </div>
+  </div>
+  <div class="todo-do">
+    <div class="todo-check fa fa-circle-thin">
+    </div>
+    <div class="todo-message">
+      Laundry
+    </div>
+  </div>
+</div>
+
+.todo-body {
+
+}
+
+.todo-do {
+  background-color: #CC0000;
+}
+
+.todo-message {
+  background-color: #CC00CC;
+}
+
+.todo-check {
+  background-color: #CCCC00;
+}
